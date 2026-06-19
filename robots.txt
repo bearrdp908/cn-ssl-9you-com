@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bearrdp908.github.io/cn-ssl-9you-com/sitemap.xml
